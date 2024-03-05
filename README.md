@@ -1,5 +1,23 @@
 # **Project Title: Learning Rust**
 
+## Table of Contents
+[Overview](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#overview)
+
+[Why Learn Rust](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#why-learn-rust)
+
+[Resources](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#resources)
+
+[Projects Contained](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#resources)
+
+[Getting Started](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#getting-started)
+
+[Contributing](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#contributing)
+
+[License](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#license)
+
+[Acknowledgements](https://github.com/WambuaJoe/Multiverse-of-Rust-ness?tab=readme-ov-file#acknowledgements)
+
+
 ## **Overview:** 
 This project aims to document the journey of learning Rust programming language from scratch. Rust is a modern, safe, and efficient systems programming language developed by Mozilla. This README serves as a comprehensive guide for anyone interested in learning Rust, providing resources, learning strategies, and reasons for choosing Rust as the language of focus.
 
@@ -19,8 +37,22 @@ This project aims to document the journey of learning Rust programming language 
 5.  **Rustlings:** Rustlings provides small exercises to reinforce understanding of Rust syntax and concepts. Rustlings
 6.  **The Rust Programming Language Forum:** An active community forum for asking questions, seeking advice, and engaging with fellow Rust developers. Rust Forum
 
-## **Projects Herein**
-1. **Hello, World!:** a simple project to print "Hello, world!" using Rust's println! macro
+## **Projects Contained**
+- Projects will be added upon completion:
+    1. **Hello, World!:**
+        * A simple project to print "Hello, world!" using Rust's println! macro.
+    
+    2. **Multithreaded Web Server:** 
+        * This project is dedicated to building a multithreaded web server using Rust programming language. This project aims to leverage Rust's concurrency features to create a high-performance and scalable web server capable of handling multiple client requests concurrently.
+    
+    3. **Dungeon Crawler Game:** 
+        * This project is focused on developing a 2D dungeon crawler game using the Rust programming language. Inspired by the principles outlined in the book "Hands-On-Rust: Effective Learning Through 2D Game Development and Play," this project aims to combine the immersive gameplay of classic dungeon crawlers with the performance and safety benefits of Rust.
+    
+    4. **Data Structures & Algorithms:** 
+        * This section serves as a comprehensive resource for mastering data structures and algorithms, essential for excelling in technical interviews and solving complex problems efficiently. From fundamental concepts to advanced techniques, explore a diverse range of topics, including arrays, linked lists, trees, graphs, sorting algorithms, searching algorithms, and dynamic programming. Each solution is meticulously crafted to provide clear explanations, optimized algorithms, and insightful approaches, empowering you to tackle interview questions with confidence and precision
+
+    5. **Object-Oriented Programming:**
+        * This project is aimed at exploring and implementing Object-Oriented Programming (OOP) concepts in Rust programming language. This project delves into the fundamentals of associating functions to types, understanding Rust's approach to object-orientation compared to languages like C++, and mastering traits implementation for various types.
 
 
 ## **Getting Started:**
