@@ -19,6 +19,10 @@ This project aims to document the journey of learning Rust programming language 
 5.  **Rustlings:** Rustlings provides small exercises to reinforce understanding of Rust syntax and concepts. Rustlings
 6.  **The Rust Programming Language Forum:** An active community forum for asking questions, seeking advice, and engaging with fellow Rust developers. Rust Forum
 
+## **Projects Herein**
+1. **Hello, World!:** a simple project to print "Hello, world!" using Rust's println! macro
+
+
 ## **Getting Started:**
 
 1.  Install Rust using the official installer available for various platforms. Install Rust
