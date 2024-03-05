@@ -39,7 +39,7 @@ This project aims to document the journey of learning Rust programming language 
 
 ## **Projects Contained**
 - Projects will be added upon completion:
-    1. **Hello, World!:**
+    1. **[Hello, World!](https://github.com/WambuaJoe/Multiverse-of-Rust-ness/tree/main/hello-world):**
         * A simple project to print "Hello, world!" using Rust's println! macro.
     
     2. **Multithreaded Web Server:** 
