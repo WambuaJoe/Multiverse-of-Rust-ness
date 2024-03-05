@@ -40,7 +40,7 @@ This project aims to document the journey of learning Rust programming language 
 ## **Projects Contained**
 **Projects will be added upon completion**
 1. **[Hello, World!](https://github.com/WambuaJoe/Multiverse-of-Rust-ness/tree/main/hello-world):**
-        * A simple project to print "Hello, world!" using Rust's println! macro.
+    * A simple project to print "Hello, world!" using Rust's println! macro.
     
 2. **[Multithreaded Web Server]():** 
     * This project is dedicated to building a multithreaded web server using Rust programming language. This project aims to leverage Rust's concurrency features to create a high-performance and scalable web server capable of handling multiple client requests concurrently.
